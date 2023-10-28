@@ -1,6 +1,6 @@
 {
-    "name": "jeckel/ipc-shared-memory",
-    "description": "A library to used shared memory for Inter-Process Communication without colision",
+    "name": "jeckel-lab/ipc-shared-memory",
+    "description": "A library to use shared memory for Inter-Process Communication without collision",
     "license": "MIT",
     "type": "library",
     "authors": [
