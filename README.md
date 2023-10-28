@@ -1,6 +1,6 @@
 # IPC Shared Memory
 
-A library to used shared memory for Inter-Process Communication without colision
+A library to use shared memory for Inter-Process Communication without collision
 
 <!--
 [![Current version](https://img.shields.io/packagist/v/jeckel/ipc-shared-memory.svg?logo=composer)](https://packagist.org/packages/jeckel/ipc-shared-memory)
